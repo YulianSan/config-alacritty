@@ -1,0 +1,37 @@
+import = ["~/.config/alacritty/catppuccin-mocha.toml"]
+
+[window]
+dynamic_title = false
+decorations = "None"
+padding.x = 10
+padding.y = 10
+class.instance = "Alacritty"
+class.general = "Alacritty"
+opacity = 0.3
+
+[colors]
+draw_bold_text_with_bright_colors = true
+
+[scrolling]
+history = 10000
+multiplier = 3
+
+[font]
+size = 14
+
+[font.bold]
+family = "MesloLGS NF"
+style = "Bold"
+
+[font.italic]
+family = "MesloLGS NF"
+style = "Italic"
+
+[font.bold_italic]
+family = "MesloLGS NF"
+style = "Bold Italic"
+
+[font.normal]
+family = "MesloLGS NF"
+style = "Regular"
+
